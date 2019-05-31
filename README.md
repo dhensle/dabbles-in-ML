@@ -17,4 +17,5 @@ The tool of choice is Python using the Tensorflow API in Jupyter notebooks.
 	
 	- [Image classification](https://github.com/dhensle/dabbles-in-ML/blob/master/intel_image_classification/intel_image_classification.ipynb) using a convolutional neutral network to distinguish between 6 sets of pictures: glaciers, mountains, streets, buildings, forest, or sea
 	- [KMeans clustering](https://github.com/dhensle/dabbles-in-ML/blob/master/mall_customer/mall_customer_clustering.ipynb) on a small set of mall customer data
+	- [Diabetes prediction](https://github.com/dhensle/dabbles-in-ML/blob/master/diabetes/diabetes-classifier.ipynb) using three different types of supervised learning algorithms: k-Nearest neighbor, random forest, and naive bayes
 
