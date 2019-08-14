@@ -14,6 +14,8 @@ The tool of choice is Python using Scikit-Learn and Tensorflow API in Jupyter no
 	- [MNIST digit classification](https://github.com/dhensle/dabbles-in-ML/blob/master/google_course/multi-class_classification_digits.ipynb) using a multilayer perceptron neural network
 	- An in-depth look at [training models](https://github.com/dhensle/dabbles-in-ML/blob/master/oreilly/ch4-model_training.ipynb) including linear, logistic, and softmax regression with gradient descent and direct parameter optimization
 	- [Image classification](https://github.com/dhensle/dabbles-in-ML/blob/master/google_course/CatsvsDogs.ipynb) to distinguish between images of cats and dogs using a convolutional neural network
+	- An overview of common [Dimensionality Reduction](https://github.com/dhensle/dabbles-in-ML/blob/master/oreilly/ch8-dimensionality_reduction.ipynb) techniques
+	- [Ensemble modeling](https://github.com/dhensle/dabbles-in-ML/blob/master/oreilly/ch7-ensemble_learning_and_random_forests.ipynb) including random forests and boosting
 
 - ### Other Projects
 	
