@@ -11,7 +11,7 @@ The tool of choice is Python using Scikit-Learn and Tensorflow API in Jupyter no
 	- [Predicting real estate values](https://github.com/dhensle/dabbles-in-ML/blob/master/oreilly/ch2-housing_project.ipynb) including data pipeline and hyperparameter searching.
 	- [Predict movies as favorable using text reviews](https://github.com/dhensle/dabbles-in-ML/blob/master/google_course/sparse_data_and_embeddings.ipynb) done with an embedding and a deep neural network
 	- [Classification](https://github.com/dhensle/dabbles-in-ML/blob/master/oreilly/ch3-mnist_classification.ipynb) training with MNIST data
-	- [MNIST digit classification](https://github.com/dhensle/dabbles-in-ML/blob/master/google_course/multi-class_classification_digits.ipynb) using a multilayer perceptron neural network
+	- MNIST digit classification using a multilayer perceptron neural network ([Google Course Implementation](https://github.com/dhensle/dabbles-in-ML/blob/master/google_course/multi-class_classification_digits.ipynb) and [O'Reilly Implementation](https://github.com/dhensle/dabbles-in-ML/blob/master/oreilly/ch10-intro_to_ANN.ipynb))
 	- An in-depth look at [training models](https://github.com/dhensle/dabbles-in-ML/blob/master/oreilly/ch4-model_training.ipynb) including linear, logistic, and softmax regression with gradient descent and direct parameter optimization
 	- [Image classification](https://github.com/dhensle/dabbles-in-ML/blob/master/google_course/CatsvsDogs.ipynb) to distinguish between images of cats and dogs using a convolutional neural network
 	- An overview of common [Dimensionality Reduction](https://github.com/dhensle/dabbles-in-ML/blob/master/oreilly/ch8-dimensionality_reduction.ipynb) techniques
