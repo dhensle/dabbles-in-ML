@@ -20,6 +20,7 @@ The tool of choice is Python using Scikit-Learn and Tensorflow API in Jupyter no
 - ### Other Projects
 	
 	- [Image classification](https://github.com/dhensle/dabbles-in-ML/blob/master/intel_image_classification/intel_image_classification.ipynb) using a convolutional neutral network to distinguish between 6 sets of pictures: glaciers, mountains, streets, buildings, forest, or sea
+	- [German to English translation](https://github.com/dhensle/dabbles-in-ML/blob/master/oreilly/ch14-RNN_translation.ipynb) using an encoder-decoder network with word embedding and Gated Recurrent Unit (GRU) cells.
 	- [KMeans clustering](https://github.com/dhensle/dabbles-in-ML/blob/master/mall_customer/mall_customer_clustering.ipynb) on a small set of mall customer data
 	- [Diabetes prediction](https://github.com/dhensle/dabbles-in-ML/blob/master/diabetes/diabetes-classifier.ipynb) using three different types of supervised learning algorithms: k-Nearest neighbor, random forest, and naive bayes
 	- [Investigation of Suicide Data](https://github.com/dhensle/dabbles-in-ML/blob/master/suicide_study/suicide_study.ipynb) from around the world with pandas manipulation and seaborn plotting
