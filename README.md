@@ -1,7 +1,7 @@
 # Data Science Portfolio
 A personal repository containing some small data science related projects with the goal of learning some interesting techniques and algorithms.
 
-The tool of choice is Python using Scikit-Learn and Tensorflow API in Jupyter notebooks.
+The tool of choice is Python using Scikit-Learn and Tensorflow APIs in Jupyter notebooks.
 
 ## Content Highlights
 
@@ -16,7 +16,7 @@ Highlights from the [O'Reilly Machine Learning Book](http://shop.oreilly.com/pro
 - [Predicting real estate values](https://github.com/dhensle/dabbles-in-ML/blob/master/oreilly/ch2-housing_project.ipynb) including data pipelines and hyperparameter searching.
 - An in-depth look at [training models](https://github.com/dhensle/dabbles-in-ML/blob/master/oreilly/ch4-model_training.ipynb) including linear, logistic, and softmax regression with gradient descent and direct parameter optimization
 - [Classification](https://github.com/dhensle/dabbles-in-ML/blob/master/oreilly/ch3-mnist_classification.ipynb) training with MNIST data
-- MNIST digit classification using a multilayer perceptron neural network: [O'Reilly Implementation](https://github.com/dhensle/dabbles-in-ML/blob/master/oreilly/ch10-intro_to_ANN.ipynb))
+- MNIST digit classification using a multilayer perceptron neural network: [O'Reilly Implementation](https://github.com/dhensle/dabbles-in-ML/blob/master/oreilly/ch10-intro_to_ANN.ipynb)
 - An overview of common [Dimensionality Reduction](https://github.com/dhensle/dabbles-in-ML/blob/master/oreilly/ch8-dimensionality_reduction.ipynb) techniques
 - [Ensemble modeling](https://github.com/dhensle/dabbles-in-ML/blob/master/oreilly/ch7-ensemble_learning_and_random_forests.ipynb) including random forests and boosting
 - [Fun with CNNs](https://github.com/dhensle/dabbles-in-ML/blob/master/oreilly/ch13-CNNs.ipynb) including feature extraction, MNIST classification, and using Google's Inception_v3 network to make predictions
