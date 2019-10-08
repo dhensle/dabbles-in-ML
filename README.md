@@ -3,6 +3,8 @@ A personal repository containing some small data science related projects with t
 
 The tool of choice is Python using Scikit-Learn and Tensorflow APIs in Jupyter notebooks.
 
+If GitHub is having trouble loading the notebook, you can view the notebook by going to [Jupyter's nbviewer](https://nbviewer.jupyter.org/).
+
 ## Content Highlights
 
 ### Directed Projects
